@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\bin\Debug\PruebaExcepcion3.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\bin\Debug\PruebaExcepcion3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\bin\Debug\PruebaExcepcion3.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion3\PruebaExcepcion3\obj\Debug\PruebaExcepcion3.pdb

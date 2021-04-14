@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PerimetroDeUnCuadrado\PerimetroDeUnCuadrado\obj\Debug\PerimetroDeUnCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PerimetroDeUnCuadrado\PerimetroDeUnCuadrado\bin\Debug\PerimetroDeUnCuadrado.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PerimetroDeUnCuadrado\PerimetroDeUnCuadrado\bin\Debug\PerimetroDeUnCuadrado.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PerimetroDeUnCuadrado\PerimetroDeUnCuadrado\bin\Debug\PerimetroDeUnCuadrado.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PerimetroDeUnCuadrado\PerimetroDeUnCuadrado\obj\Debug\PerimetroDeUnCuadrado.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PerimetroDeUnCuadrado\PerimetroDeUnCuadrado\obj\Debug\PerimetroDeUnCuadrado.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\bin\Debug\ParametrosReferencia4.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\bin\Debug\ParametrosReferencia4.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\bin\Debug\ParametrosReferencia4.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\obj\Debug\ParametrosReferencia4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\obj\Debug\ParametrosReferencia4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\obj\Debug\ParametrosReferencia4.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosReferencia4\ParametrosReferencia4\obj\Debug\ParametrosReferencia4.pdb

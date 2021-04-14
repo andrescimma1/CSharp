@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\bin\Debug\Genericos3.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\bin\Debug\Genericos3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\bin\Debug\Genericos3.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\obj\Debug\Genericos3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\obj\Debug\Genericos3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\obj\Debug\Genericos3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Genericos3\Genericos3\obj\Debug\Genericos3.pdb

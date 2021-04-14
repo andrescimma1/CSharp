@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\bin\Debug\ListasTipoCola.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\bin\Debug\ListasTipoCola.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\bin\Debug\ListasTipoCola.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\obj\Debug\ListasTipoCola.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\obj\Debug\ListasTipoCola.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\obj\Debug\ListasTipoCola.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoCola\ListasTipoCola\obj\Debug\ListasTipoCola.pdb

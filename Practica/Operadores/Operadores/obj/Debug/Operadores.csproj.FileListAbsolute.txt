@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Operadores\Operadores\obj\Debug\Operadores.pdb

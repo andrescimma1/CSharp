@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SobrecargaParametros3\SobrecargaParametros3\obj\Debug\SobrecargaParametros3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SobrecargaParametros3\SobrecargaParametros3\bin\Debug\SobrecargaParametros3.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SobrecargaParametros3\SobrecargaParametros3\bin\Debug\SobrecargaParametros3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SobrecargaParametros3\SobrecargaParametros3\bin\Debug\SobrecargaParametros3.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SobrecargaParametros3\SobrecargaParametros3\obj\Debug\SobrecargaParametros3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SobrecargaParametros3\SobrecargaParametros3\obj\Debug\SobrecargaParametros3.pdb

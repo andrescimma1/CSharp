@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\bin\Debug\usoCorrectoDePropiedades.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\bin\Debug\usoCorrectoDePropiedades.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\bin\Debug\usoCorrectoDePropiedades.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\usoCorrectoDePropiedades\usoCorrectoDePropiedades\obj\Debug\usoCorrectoDePropiedades.pdb

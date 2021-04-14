@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PositivoNuloONegativo\PositivoNuloONegativo\bin\Debug\PositivoNuloONegativo.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PositivoNuloONegativo\PositivoNuloONegativo\bin\Debug\PositivoNuloONegativo.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PositivoNuloONegativo\PositivoNuloONegativo\bin\Debug\PositivoNuloONegativo.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PositivoNuloONegativo\PositivoNuloONegativo\obj\Debug\PositivoNuloONegativo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PositivoNuloONegativo\PositivoNuloONegativo\obj\Debug\PositivoNuloONegativo.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PositivoNuloONegativo\PositivoNuloONegativo\obj\Debug\PositivoNuloONegativo.pdb

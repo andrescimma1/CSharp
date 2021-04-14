@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Compra\Compra\bin\Debug\Compra.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Compra\Compra\bin\Debug\Compra.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Compra\Compra\bin\Debug\Compra.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Compra\Compra\obj\Debug\Compra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Compra\Compra\obj\Debug\Compra.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Compra\Compra\obj\Debug\Compra.pdb

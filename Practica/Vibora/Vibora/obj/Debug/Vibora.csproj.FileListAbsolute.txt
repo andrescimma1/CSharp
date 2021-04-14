@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\bin\Debug\Vibora.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\bin\Debug\Vibora.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Vibora\Vibora\obj\Debug\Vibora.pdb

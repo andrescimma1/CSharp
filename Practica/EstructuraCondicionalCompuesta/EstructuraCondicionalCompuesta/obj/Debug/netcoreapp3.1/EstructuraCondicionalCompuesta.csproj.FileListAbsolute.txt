@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\bin\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\bin\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.deps.json
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\bin\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.runtimeconfig.json
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\bin\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.runtimeconfig.dev.json
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\bin\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.dll
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\bin\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.AssemblyInfo.cs
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.dll
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalCompuesta\EstructuraCondicionalCompuesta\obj\Debug\netcoreapp3.1\EstructuraCondicionalCompuesta.genruntimeconfig.cache

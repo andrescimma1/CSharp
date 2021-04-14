@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\bin\Debug\PostulanteAUnEmpleo.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\bin\Debug\PostulanteAUnEmpleo.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\bin\Debug\PostulanteAUnEmpleo.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\obj\Debug\PostulanteAUnEmpleo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\obj\Debug\PostulanteAUnEmpleo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\obj\Debug\PostulanteAUnEmpleo.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PostulanteAUnEmpleo\PostulanteAUnEmpleo\obj\Debug\PostulanteAUnEmpleo.pdb

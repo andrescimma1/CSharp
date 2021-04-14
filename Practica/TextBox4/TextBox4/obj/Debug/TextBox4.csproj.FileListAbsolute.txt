@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\bin\Debug\TextBox4.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\bin\Debug\TextBox4.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\bin\Debug\TextBox4.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\obj\Debug\TextBox4.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\obj\Debug\TextBox4.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\obj\Debug\TextBox4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\obj\Debug\TextBox4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\obj\Debug\TextBox4.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TextBox4\TextBox4\obj\Debug\TextBox4.pdb

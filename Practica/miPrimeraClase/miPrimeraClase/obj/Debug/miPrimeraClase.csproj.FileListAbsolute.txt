@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\bin\Debug\miPrimeraClase.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\miPrimeraClase\miPrimeraClase\obj\Debug\miPrimeraClase.pdb

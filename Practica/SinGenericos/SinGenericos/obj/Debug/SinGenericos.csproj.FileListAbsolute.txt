@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\bin\Debug\SinGenericos.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\bin\Debug\SinGenericos.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\bin\Debug\SinGenericos.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\obj\Debug\SinGenericos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\obj\Debug\SinGenericos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\obj\Debug\SinGenericos.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SinGenericos\SinGenericos\obj\Debug\SinGenericos.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ProblemaList1\ProblemaList1\bin\Debug\ProblemaList1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ProblemaList1\ProblemaList1\bin\Debug\ProblemaList1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ProblemaList1\ProblemaList1\bin\Debug\ProblemaList1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ProblemaList1\ProblemaList1\obj\Debug\ProblemaList1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ProblemaList1\ProblemaList1\obj\Debug\ProblemaList1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ProblemaList1\ProblemaList1\obj\Debug\ProblemaList1.pdb

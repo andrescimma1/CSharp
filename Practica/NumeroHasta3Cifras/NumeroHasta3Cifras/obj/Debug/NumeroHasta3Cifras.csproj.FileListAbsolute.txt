@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NumeroHasta3Cifras\NumeroHasta3Cifras\bin\Debug\NumeroHasta3Cifras.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NumeroHasta3Cifras\NumeroHasta3Cifras\bin\Debug\NumeroHasta3Cifras.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NumeroHasta3Cifras\NumeroHasta3Cifras\bin\Debug\NumeroHasta3Cifras.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NumeroHasta3Cifras\NumeroHasta3Cifras\obj\Debug\NumeroHasta3Cifras.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NumeroHasta3Cifras\NumeroHasta3Cifras\obj\Debug\NumeroHasta3Cifras.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NumeroHasta3Cifras\NumeroHasta3Cifras\obj\Debug\NumeroHasta3Cifras.pdb

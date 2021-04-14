@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\bin\Debug\MetodosExtension1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\bin\Debug\MetodosExtension1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\bin\Debug\MetodosExtension1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\obj\Debug\MetodosExtension1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\obj\Debug\MetodosExtension1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\obj\Debug\MetodosExtension1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension1\MetodosExtension1\obj\Debug\MetodosExtension1.pdb

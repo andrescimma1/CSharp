@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\bin\Debug\HerenciaSimple.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\bin\Debug\HerenciaSimple.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\bin\Debug\HerenciaSimple.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\obj\Debug\HerenciaSimple.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\obj\Debug\HerenciaSimple.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\obj\Debug\HerenciaSimple.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\HerenciaSimple\HerenciaSimple\obj\Debug\HerenciaSimple.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYPromedio\SumaYPromedio\bin\Debug\SumaYPromedio.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYPromedio\SumaYPromedio\bin\Debug\SumaYPromedio.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYPromedio\SumaYPromedio\bin\Debug\SumaYPromedio.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYPromedio\SumaYPromedio\obj\Debug\SumaYPromedio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYPromedio\SumaYPromedio\obj\Debug\SumaYPromedio.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYPromedio\SumaYPromedio\obj\Debug\SumaYPromedio.pdb

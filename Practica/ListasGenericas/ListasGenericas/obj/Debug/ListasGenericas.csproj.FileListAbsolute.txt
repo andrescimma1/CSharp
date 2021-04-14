@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\bin\Debug\ListasGenericas.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\bin\Debug\ListasGenericas.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\bin\Debug\ListasGenericas.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\obj\Debug\ListasGenericas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\obj\Debug\ListasGenericas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\obj\Debug\ListasGenericas.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericas\ListasGenericas\obj\Debug\ListasGenericas.pdb

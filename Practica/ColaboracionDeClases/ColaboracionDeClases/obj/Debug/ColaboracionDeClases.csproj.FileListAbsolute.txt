@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\bin\Debug\ColaboracionDeClases.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\bin\Debug\ColaboracionDeClases.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\bin\Debug\ColaboracionDeClases.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\obj\Debug\ColaboracionDeClases.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\obj\Debug\ColaboracionDeClases.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\obj\Debug\ColaboracionDeClases.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ColaboracionDeClases\ColaboracionDeClases\obj\Debug\ColaboracionDeClases.pdb

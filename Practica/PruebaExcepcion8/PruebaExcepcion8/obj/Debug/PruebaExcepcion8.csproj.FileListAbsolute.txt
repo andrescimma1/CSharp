@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\bin\Debug\PruebaExcepcion8.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\bin\Debug\PruebaExcepcion8.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\bin\Debug\PruebaExcepcion8.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\obj\Debug\PruebaExcepcion8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\obj\Debug\PruebaExcepcion8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\obj\Debug\PruebaExcepcion8.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion8\PruebaExcepcion8\obj\Debug\PruebaExcepcion8.pdb

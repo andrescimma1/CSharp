@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\bin\Debug\ListasGenericasOrdenadas.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\bin\Debug\ListasGenericasOrdenadas.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\bin\Debug\ListasGenericasOrdenadas.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\obj\Debug\ListasGenericasOrdenadas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\obj\Debug\ListasGenericasOrdenadas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\obj\Debug\ListasGenericasOrdenadas.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasGenericasOrdenadas\ListasGenericasOrdenadas\obj\Debug\ListasGenericasOrdenadas.pdb

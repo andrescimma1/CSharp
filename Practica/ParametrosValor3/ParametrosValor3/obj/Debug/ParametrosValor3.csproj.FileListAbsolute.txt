@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosValor3\ParametrosValor3\bin\Debug\ParametrosValor3.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosValor3\ParametrosValor3\bin\Debug\ParametrosValor3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosValor3\ParametrosValor3\bin\Debug\ParametrosValor3.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosValor3\ParametrosValor3\obj\Debug\ParametrosValor3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosValor3\ParametrosValor3\obj\Debug\ParametrosValor3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosValor3\ParametrosValor3\obj\Debug\ParametrosValor3.pdb

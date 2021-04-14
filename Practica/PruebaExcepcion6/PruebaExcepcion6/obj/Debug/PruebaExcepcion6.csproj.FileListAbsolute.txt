@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion6\PruebaExcepcion6\obj\Debug\PruebaExcepcion6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion6\PruebaExcepcion6\bin\Debug\PruebaExcepcion6.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion6\PruebaExcepcion6\bin\Debug\PruebaExcepcion6.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion6\PruebaExcepcion6\bin\Debug\PruebaExcepcion6.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion6\PruebaExcepcion6\obj\Debug\PruebaExcepcion6.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion6\PruebaExcepcion6\obj\Debug\PruebaExcepcion6.pdb

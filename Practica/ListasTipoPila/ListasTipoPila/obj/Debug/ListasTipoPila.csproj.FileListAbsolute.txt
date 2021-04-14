@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\bin\Debug\ListasTipoPila.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\bin\Debug\ListasTipoPila.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\bin\Debug\ListasTipoPila.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.pdb

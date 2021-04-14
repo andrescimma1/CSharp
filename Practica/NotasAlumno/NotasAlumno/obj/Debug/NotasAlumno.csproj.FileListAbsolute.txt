@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NotasAlumno\NotasAlumno\bin\Debug\NotasAlumno.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NotasAlumno\NotasAlumno\bin\Debug\NotasAlumno.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NotasAlumno\NotasAlumno\bin\Debug\NotasAlumno.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NotasAlumno\NotasAlumno\obj\Debug\NotasAlumno.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NotasAlumno\NotasAlumno\obj\Debug\NotasAlumno.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\NotasAlumno\NotasAlumno\obj\Debug\NotasAlumno.pdb

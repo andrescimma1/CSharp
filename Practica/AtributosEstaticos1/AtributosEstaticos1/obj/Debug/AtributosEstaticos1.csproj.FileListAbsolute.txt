@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\bin\Debug\AtributosEstaticos1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\bin\Debug\AtributosEstaticos1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\bin\Debug\AtributosEstaticos1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\AtributosEstaticos1\AtributosEstaticos1\obj\Debug\AtributosEstaticos1.pdb

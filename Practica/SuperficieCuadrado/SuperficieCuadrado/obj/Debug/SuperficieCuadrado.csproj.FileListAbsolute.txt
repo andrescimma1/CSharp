@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\bin\Debug\GetAndSet.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\bin\Debug\GetAndSet.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\bin\Debug\GetAndSet.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\obj\Debug\GetAndSet.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\obj\Debug\GetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\obj\Debug\GetAndSet.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\GetAndSet\GetAndSet\obj\Debug\GetAndSet.pdb

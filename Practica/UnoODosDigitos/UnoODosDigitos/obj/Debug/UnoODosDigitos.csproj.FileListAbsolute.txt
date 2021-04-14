@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\UnoODosDigitos\UnoODosDigitos\bin\Debug\UnoODosDigitos.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\UnoODosDigitos\UnoODosDigitos\bin\Debug\UnoODosDigitos.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\UnoODosDigitos\UnoODosDigitos\bin\Debug\UnoODosDigitos.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\UnoODosDigitos\UnoODosDigitos\obj\Debug\UnoODosDigitos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\UnoODosDigitos\UnoODosDigitos\obj\Debug\UnoODosDigitos.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\UnoODosDigitos\UnoODosDigitos\obj\Debug\UnoODosDigitos.pdb

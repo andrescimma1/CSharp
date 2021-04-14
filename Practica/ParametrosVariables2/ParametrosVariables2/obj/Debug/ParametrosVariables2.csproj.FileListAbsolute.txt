@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\bin\Debug\ParametrosVariables2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\bin\Debug\ParametrosVariables2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\bin\Debug\ParametrosVariables2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\obj\Debug\ParametrosVariables2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\obj\Debug\ParametrosVariables2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\obj\Debug\ParametrosVariables2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosVariables2\ParametrosVariables2\obj\Debug\ParametrosVariables2.pdb

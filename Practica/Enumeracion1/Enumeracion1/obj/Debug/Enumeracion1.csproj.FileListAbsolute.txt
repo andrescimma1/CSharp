@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Enumeracion1\Enumeracion1\bin\Debug\Enumeracion1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Enumeracion1\Enumeracion1\bin\Debug\Enumeracion1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Enumeracion1\Enumeracion1\bin\Debug\Enumeracion1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Enumeracion1\Enumeracion1\obj\Debug\Enumeracion1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Enumeracion1\Enumeracion1\obj\Debug\Enumeracion1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Enumeracion1\Enumeracion1\obj\Debug\Enumeracion1.pdb

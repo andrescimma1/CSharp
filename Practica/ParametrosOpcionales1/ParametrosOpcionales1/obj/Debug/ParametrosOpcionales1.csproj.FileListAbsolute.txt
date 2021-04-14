@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\bin\Debug\ParametrosOpcionales1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\bin\Debug\ParametrosOpcionales1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\bin\Debug\ParametrosOpcionales1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\obj\Debug\ParametrosOpcionales1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\obj\Debug\ParametrosOpcionales1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\obj\Debug\ParametrosOpcionales1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ParametrosOpcionales1\ParametrosOpcionales1\obj\Debug\ParametrosOpcionales1.pdb

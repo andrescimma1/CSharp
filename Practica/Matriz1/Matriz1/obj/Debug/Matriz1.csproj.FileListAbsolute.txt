@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\bin\Debug\Matriz1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\bin\Debug\Matriz1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\bin\Debug\Matriz1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\obj\Debug\Matriz1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\obj\Debug\Matriz1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\obj\Debug\Matriz1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Matriz1\Matriz1\obj\Debug\Matriz1.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\bin\Debug\ArbolBinario1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ArbolBinario1\ArbolBinario1\obj\Debug\ArbolBinario1.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\bin\Debug\Button.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\bin\Debug\Button.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\bin\Debug\Button.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\obj\Debug\Button.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\obj\Debug\Button.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Button\Button\obj\Debug\Button.pdb

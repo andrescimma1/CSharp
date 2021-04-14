@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad6\Recursividad6\bin\Debug\Recursividad6.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad6\Recursividad6\bin\Debug\Recursividad6.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad6\Recursividad6\bin\Debug\Recursividad6.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad6\Recursividad6\obj\Debug\Recursividad6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad6\Recursividad6\obj\Debug\Recursividad6.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad6\Recursividad6\obj\Debug\Recursividad6.pdb

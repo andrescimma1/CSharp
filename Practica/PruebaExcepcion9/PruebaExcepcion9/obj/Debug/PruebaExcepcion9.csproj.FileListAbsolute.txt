@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\obj\Debug\PruebaExcepcion9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\bin\Debug\PruebaExcepcion9.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\bin\Debug\PruebaExcepcion9.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\bin\Debug\PruebaExcepcion9.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\obj\Debug\PruebaExcepcion9.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\obj\Debug\PruebaExcepcion9.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\PruebaExcepcion9\PruebaExcepcion9\obj\Debug\PruebaExcepcion9.csprojAssemblyReference.cache

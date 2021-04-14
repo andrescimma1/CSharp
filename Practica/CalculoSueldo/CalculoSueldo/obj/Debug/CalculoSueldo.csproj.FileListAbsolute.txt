@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb

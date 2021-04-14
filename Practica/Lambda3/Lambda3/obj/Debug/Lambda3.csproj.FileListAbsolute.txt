@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda3\Lambda3\bin\Debug\Lambda3.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda3\Lambda3\bin\Debug\Lambda3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda3\Lambda3\bin\Debug\Lambda3.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda3\Lambda3\obj\Debug\Lambda3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda3\Lambda3\obj\Debug\Lambda3.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda3\Lambda3\obj\Debug\Lambda3.pdb

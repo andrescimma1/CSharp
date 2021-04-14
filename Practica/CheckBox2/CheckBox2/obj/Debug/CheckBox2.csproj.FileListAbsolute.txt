@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\bin\Debug\CheckBox2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\bin\Debug\CheckBox2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\bin\Debug\CheckBox2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\obj\Debug\CheckBox2.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\obj\Debug\CheckBox2.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\obj\Debug\CheckBox2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\obj\Debug\CheckBox2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\obj\Debug\CheckBox2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\CheckBox2\CheckBox2\obj\Debug\CheckBox2.pdb

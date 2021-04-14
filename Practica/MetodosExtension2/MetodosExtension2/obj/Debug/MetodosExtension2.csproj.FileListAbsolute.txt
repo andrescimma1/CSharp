@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension2\MetodosExtension2\bin\Debug\MetodosExtension2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension2\MetodosExtension2\bin\Debug\MetodosExtension2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension2\MetodosExtension2\bin\Debug\MetodosExtension2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension2\MetodosExtension2\obj\Debug\MetodosExtension2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension2\MetodosExtension2\obj\Debug\MetodosExtension2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosExtension2\MetodosExtension2\obj\Debug\MetodosExtension2.pdb

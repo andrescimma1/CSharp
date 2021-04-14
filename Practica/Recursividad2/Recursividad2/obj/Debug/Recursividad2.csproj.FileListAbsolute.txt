@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad2\Recursividad2\bin\Debug\Recursividad2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad2\Recursividad2\bin\Debug\Recursividad2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad2\Recursividad2\bin\Debug\Recursividad2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad2\Recursividad2\obj\Debug\Recursividad2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad2\Recursividad2\obj\Debug\Recursividad2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad2\Recursividad2\obj\Debug\Recursividad2.pdb

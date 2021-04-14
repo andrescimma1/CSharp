@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\bin\Debug\SumaYProducto.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\bin\Debug\SumaYProducto.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\bin\Debug\SumaYProducto.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\obj\Debug\SumaYProducto.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\obj\Debug\SumaYProducto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\obj\Debug\SumaYProducto.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\SumaYProducto\SumaYProducto\obj\Debug\SumaYProducto.pdb

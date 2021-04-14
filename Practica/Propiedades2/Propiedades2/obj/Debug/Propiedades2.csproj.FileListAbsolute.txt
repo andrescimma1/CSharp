@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\bin\Debug\Propiedades2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\bin\Debug\Propiedades2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\bin\Debug\Propiedades2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\obj\Debug\Propiedades2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\obj\Debug\Propiedades2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\obj\Debug\Propiedades2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Propiedades2\Propiedades2\obj\Debug\Propiedades2.pdb

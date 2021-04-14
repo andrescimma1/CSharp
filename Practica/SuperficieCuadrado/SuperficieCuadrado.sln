@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperficieCuadrado", "SuperficieCuadrado\SuperficieCuadrado.csproj", "{47567EEE-6694-4FA8-9CA4-7E0122DF2385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47567EEE-6694-4FA8-9CA4-7E0122DF2385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47567EEE-6694-4FA8-9CA4-7E0122DF2385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47567EEE-6694-4FA8-9CA4-7E0122DF2385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47567EEE-6694-4FA8-9CA4-7E0122DF2385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D03A5D-66E9-410A-A988-F511B4A9BBB9}
+	EndGlobalSection
+EndGlobal

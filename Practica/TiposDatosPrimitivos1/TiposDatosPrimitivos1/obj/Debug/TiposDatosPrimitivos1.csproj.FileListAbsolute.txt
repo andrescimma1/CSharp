@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\bin\Debug\TiposDatosPrimitivos1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\bin\Debug\TiposDatosPrimitivos1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\bin\Debug\TiposDatosPrimitivos1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\TiposDatosPrimitivos1\TiposDatosPrimitivos1\obj\Debug\TiposDatosPrimitivos1.pdb

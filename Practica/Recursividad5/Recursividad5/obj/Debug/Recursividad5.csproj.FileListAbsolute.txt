@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\bin\Debug\Recursividad5.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\bin\Debug\Recursividad5.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\bin\Debug\Recursividad5.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\obj\Debug\Recursividad5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\obj\Debug\Recursividad5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\obj\Debug\Recursividad5.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad5\Recursividad5\obj\Debug\Recursividad5.pdb

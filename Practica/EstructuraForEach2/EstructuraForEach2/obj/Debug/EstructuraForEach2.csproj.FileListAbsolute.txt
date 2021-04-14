@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\obj\Debug\EstructuraForEach2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\obj\Debug\EstructuraForEach2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\bin\Debug\EstructuraForEach2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\bin\Debug\EstructuraForEach2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\bin\Debug\EstructuraForEach2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\obj\Debug\EstructuraForEach2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraForEach2\EstructuraForEach2\obj\Debug\EstructuraForEach2.pdb

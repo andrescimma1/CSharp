@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\bin\Debug\MetodosEstaticos1.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\bin\Debug\MetodosEstaticos1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\bin\Debug\MetodosEstaticos1.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\obj\Debug\MetodosEstaticos1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\obj\Debug\MetodosEstaticos1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\obj\Debug\MetodosEstaticos1.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\MetodosEstaticos1\MetodosEstaticos1\obj\Debug\MetodosEstaticos1.pdb

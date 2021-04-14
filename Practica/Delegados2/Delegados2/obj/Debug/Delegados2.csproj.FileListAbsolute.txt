@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Delegados2\Delegados2\bin\Debug\Delegados2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Delegados2\Delegados2\bin\Debug\Delegados2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Delegados2\Delegados2\bin\Debug\Delegados2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Delegados2\Delegados2\obj\Debug\Delegados2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Delegados2\Delegados2\obj\Debug\Delegados2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Delegados2\Delegados2\obj\Debug\Delegados2.pdb

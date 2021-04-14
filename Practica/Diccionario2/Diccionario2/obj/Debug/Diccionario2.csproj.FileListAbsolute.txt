@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\bin\Debug\Diccionario2.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\bin\Debug\Diccionario2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\bin\Debug\Diccionario2.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\obj\Debug\Diccionario2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\obj\Debug\Diccionario2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\obj\Debug\Diccionario2.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Diccionario2\Diccionario2\obj\Debug\Diccionario2.pdb

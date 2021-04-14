@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

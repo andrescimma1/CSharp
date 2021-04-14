@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\RadioButton\RadioButton\obj\Debug\RadioButton.pdb

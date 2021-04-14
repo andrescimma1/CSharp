@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\bin\Debug\Lambda4.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\bin\Debug\Lambda4.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\bin\Debug\Lambda4.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\obj\Debug\Lambda4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\obj\Debug\Lambda4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\obj\Debug\Lambda4.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Lambda4\Lambda4\obj\Debug\Lambda4.pdb

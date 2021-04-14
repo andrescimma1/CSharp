@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\bin\Debug\Recursividad7.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\bin\Debug\Recursividad7.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\bin\Debug\Recursividad7.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\obj\Debug\Recursividad7.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\obj\Debug\Recursividad7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\obj\Debug\Recursividad7.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Recursividad7\Recursividad7\obj\Debug\Recursividad7.pdb

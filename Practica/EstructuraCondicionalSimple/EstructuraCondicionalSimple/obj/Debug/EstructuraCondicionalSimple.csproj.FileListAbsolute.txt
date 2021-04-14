@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\bin\Debug\EstructuraCondicionalSimple.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\bin\Debug\EstructuraCondicionalSimple.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\bin\Debug\EstructuraCondicionalSimple.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\obj\Debug\EstructuraCondicionalSimple.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\obj\Debug\EstructuraCondicionalSimple.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\obj\Debug\EstructuraCondicionalSimple.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\EstructuraCondicionalSimple\EstructuraCondicionalSimple\obj\Debug\EstructuraCondicionalSimple.pdb

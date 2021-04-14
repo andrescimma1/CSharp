@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ElMayorDe3Numeros\ElMayorDe3Numeros\bin\Debug\ElMayorDe3Numeros.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ElMayorDe3Numeros\ElMayorDe3Numeros\bin\Debug\ElMayorDe3Numeros.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ElMayorDe3Numeros\ElMayorDe3Numeros\bin\Debug\ElMayorDe3Numeros.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ElMayorDe3Numeros\ElMayorDe3Numeros\obj\Debug\ElMayorDe3Numeros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ElMayorDe3Numeros\ElMayorDe3Numeros\obj\Debug\ElMayorDe3Numeros.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\ElMayorDe3Numeros\ElMayorDe3Numeros\obj\Debug\ElMayorDe3Numeros.pdb
