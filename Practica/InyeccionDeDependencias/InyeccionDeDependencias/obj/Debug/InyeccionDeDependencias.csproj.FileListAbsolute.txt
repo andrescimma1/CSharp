@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\bin\Debug\InyeccionDeDependencias.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\bin\Debug\InyeccionDeDependencias.exe
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\bin\Debug\InyeccionDeDependencias.pdb
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.exe
+C:\Users\User\Desktop\Curso Global Citizen\CSharp\Practica\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.pdb
