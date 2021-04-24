@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacion", "Agregacion\Agregacion.csproj", "{003DCBFA-B3BE-4D46-A0BD-2D9CEBB2A0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003DCBFA-B3BE-4D46-A0BD-2D9CEBB2A0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003DCBFA-B3BE-4D46-A0BD-2D9CEBB2A0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003DCBFA-B3BE-4D46-A0BD-2D9CEBB2A0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003DCBFA-B3BE-4D46-A0BD-2D9CEBB2A0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC19346-EB54-4E1A-986F-45B469F84263}
+	EndGlobalSection
+EndGlobal

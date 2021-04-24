@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Composicion\Composicion\bin\Debug\Composicion.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Composicion\Composicion\bin\Debug\Composicion.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Composicion\Composicion\bin\Debug\Composicion.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Composicion\Composicion\obj\Debug\Composicion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Composicion\Composicion\obj\Debug\Composicion.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Composicion\Composicion\obj\Debug\Composicion.pdb

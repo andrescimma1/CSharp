@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>Ejemplo de inyección de dependencias con C#</title>
+  <meta name="description" content="Explicaremos como funciona este patrón que es usado bastante en muchos frameworks actuales como ASP.NET MVC, Angular, Laravel, entre otros.">
+
+  <link rel="shortcut icon" href="https://anexsoft.com/themes/anexsoft/assets/favicon.ico">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="theme-color" content="#222">
+<meta name="google-site-verification" content="ba1cbjCersK1okRjtGOFi4xfrlEyP3M1K8zrImOB9rQ">
+
+  <link href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/app.css" rel="stylesheet">
+  <link rel="stylesheet" href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <link href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/atom-one-dark-reasonable.css" rel="stylesheet">    
+    <!-- Facebook -->
+        <meta property="og:image" content="https://anexsoft.com/themes/anexsoft/assets/images/anexsoft-meta.jpg">
+        
+    <meta property="og:title" content="Ejemplo de inyección de dependencias con C#">
+    <meta property="og:url" content="https://anexsoft.com/ejemplo-de-inyeccion-de-dependencias-con-c">
+    <meta property="og:site_name" content="Anexsoft">        
+    <meta property="og:description" content="Explicaremos como funciona este patrón que es usado bastante en muchos frameworks actuales como ASP.NET MVC, Angular, Laravel, entre otros.">        
+    <meta property="og:type" content="website">
+    
+    <meta property="fb:app_id" content="320080904930">
+    <script type="text/javascript" async="" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/analytics.js"></script><script src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/sdk_002.js" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/embed.js"></script><link rel="prefetch" as="style" href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/a_data/lounge.css"><link rel="prefetch" as="script" href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/a_data/common.js"><link rel="prefetch" as="script" href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/a_data/lounge.js"><link rel="prefetch" as="script" href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/a_data_003/config.js"><script src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/alfalfalfa.js" async="" charset="UTF-8"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+
+<body>
+  <div id="annoucenment">
+    <div class="is-hidden-touch">
+        <span>Capacítate con nosotros.</span>
+        <a href="https://kodoti.com/">
+            <span class="icon">
+                <i class="far fa-hand-point-right"></i>
+            </span>
+            <span>Ir a KODOTI</span>
+        </a>    
+    </div>
+    <div class="is-hidden-desktop">
+        <span>Capacítate con nosotros.</span>
+        <a href="https://kodoti.com/">
+            <span class="icon">
+                <i class="far fa-hand-point-right"></i>
+            </span>
+            <span>KODOTI</span>
+        </a>    
+    </div>
+</div>
+<header id="header">
+    <div class="container">
+        <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="https://anexsoft.com/">
+              <img src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/logo.png">
+            </a>
+        
+            <a role="button" class="navbar-burger burger has-text-primary" aria-label="menu" aria-expanded="false" data-target="main-navbar">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+        
+          <div id="main-navbar" class="navbar-menu">
+            <div class="navbar-end">
+                                    <a href="https://anexsoft.com/c/1/net" class="navbar-item">.NET</a>
+                                    <a href="https://anexsoft.com/c/3/net-core" class="navbar-item">.NET Core</a>
+                                    <a href="https://anexsoft.com/c/2/php" class="navbar-item">PHP</a>
+                                    <a href="https://anexsoft.com/c/4/front-end" class="navbar-item">Front-End</a>
+                                    <a href="https://anexsoft.com/c/7/cursos" class="navbar-item">Cursos</a>
+                                    <a href="https://anexsoft.com/c/8/store" class="navbar-item">Store</a>
+                                    <a href="https://anexsoft.com/c/5/otros" class="navbar-item">Otros</a>
+                                
+                <a href="https://anexsoft.com/colaboradores" class="navbar-item">
+                    <span class="icon has-text-primary">
+                        <i class="fas fa-hands-helping"></i>
+                    </span>
+                    <span class="is-hidden-tablet">Colaboradores</span>
+                </a>
+                
+                <a href="https://www.youtube.com/c/kodoti?sub_confirmation=1" target="_blank" class="navbar-item">
+                  <span class="icon has-text-danger">
+                    <i class="fab fa-youtube"></i>
+                  </span>
+                  <span class="is-hidden-tablet">Canal de YouTube</span>
+                </a>
+                
+                <a href="https://kodoti.com/" class="navbar-item">
+                    <img class="kodoti" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/kodoti-logo-negative.png">
+                </a>
+                
+                <a href="https://anexsoft.com/buscar" class="navbar-item">
+                    <span class="icon">
+                        <i class="fa fa-search"></i>
+                    </span>
+                  <span class="is-hidden-tablet">Buscador</span>
+                </a>
+            </div>
+          </div>
+        </nav>
+    </div>
+</header>
+
+
+<style>
+    #annoucenment {
+        background: linear-gradient(to right, rgba(203,96,179,1) 0%, rgba(94,6,145,1) 100%);
+        padding: 0.5rem;
+        text-align: center;
+        color: #fff;
+    }
+    
+    #annoucenment a {
+        color: #3c9;
+        font-weight:bold;
+    }
+</style>    
+  
+<div id="post">
+    <header class="hero is-dark is-bold is-medium" style="background-image: url(https://anexsoft.com/themes/anexsoft/assets/images/posts-cover/02-full.jpg);">
+        <div class="hero-body is-uppercase">
+            <div class="container">
+                <div class="columns">
+                    <div class="column">
+                        <h1 class="title is-size-4-touch">Ejemplo de inyección de dependencias con C#</h1>
+                        <h2 class="subtitle has-text-grey-light is-size-6-touch">Explicaremos
+ como funciona este patrón que es usado bastante en muchos frameworks 
+actuales como ASP.NET MVC, Angular, Laravel, entre otros.</h2>
+                        
+                        <div class="is-size-5">
+                            <span class="icon">
+                                <i class="fa fa-user"></i>
+                            </span>
+                            <span>Rodríguez Patiño, Eduardo</span>                        
+                        </div>
+                        
+                        <div>
+                            <span class="icon">
+                                <i class="fa fa-clock"></i>
+                            </span>
+                            <time datetime="2019-10-15 03:33:49">2015-09-06</time>
+                            <span class="icon">
+                                <i class="fa fa-eye"></i>
+                            </span>
+                            <span>34,049 lecturas</span>
+                        </div>
+                        
+                        <div>
+                            <div class="fb-like has-margin-top fb_iframe_widget" data-href="https://anexsoft.com/ejemplo-de-inyeccion-de-dependencias-con-c" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=&amp;container_width=1002&amp;href=https%3A%2F%2Fanexsoft.com%2Fejemplo-de-inyeccion-de-dependencias-con-c&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=true&amp;show_faces=true&amp;size=large"><span style="vertical-align: bottom; width: 131px; height: 28px;"><iframe name="f227c984efc1942" title="fb:like Facebook Social Plugin" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none; visibility: visible; width: 131px; height: 28px;" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/like.html" class="" width="1000px" height="1000px" frameborder="0"></iframe></span></div>
+                        </div>
+                        
+                                            </div>
+                    
+                                        <div class="column is-3 has-text-centered has-text-left-mobile">
+                        <figure>
+                            <img class="is-circle post-user-avatar" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/5c72e4683b153711819916.jpg" alt="Rodríguez Patiño, Eduardo">
+                        </figure>
+                    </div>
+                                        
+                </div>
+            </div>    
+        </div>
+    </header>
+    
+    <div class="container">
+        <article class="section">
+                    
+                    
+                                <article class="message is-info">
+                  <div class="message-body">
+                    Hemos migrado <span class="has-text-weight-bold">nuestras publicaciones del blog antiguo</span>. Si crees que esta se <span class="has-text-weight-bold">encuentra incompleta</span> o <span class="has-text-weight-bold">sin coherencia</span> <a href="#disqus_thread">deja un comentario</a> para darle una pronta solución.
+                  </div>
+                </article>
+                                
+                <div class="content">
+                    <p>Si han llegado a esta página, es porque has oído 
+hablar de dicho patrón y no lo logras entender. Pues si, los patrones 
+son un poco confunsos de entender y peor aún en ¿que momento de la vida 
+debemos usarlo?.</p>
+<h3>¿Que es inyección de dependencias?</h3>
+<p>Basicamente es quitarle la responsabilidad a nuestra clase principal 
+de crear instancias a sus dependencias. En pocas palabras, en vez de que
+ nuestra clase haga una instancia internamente a otra clase que depende,
+ mejor le pasamos la clase que va a implementar como un parámetro 
+adicional, de esta manera evitamos la dependencia directa. ¿Se 
+entendió?, bueno ... espero que con el ejemplo se entienda mejor.</p>
+<p>h3&gt;Nuestro ejemplo</p>
+<p>En nuestro ejemplo vamos a suministrar a un soldado que arma debería 
+usar en el combate. Para ello, hemos creado las siguientes clases:</p>
+<h4>Las armas convertidas a Clase</h4>
+<pre class="hljs cpp"><code><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Revolver</span>
+{</span>
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">Disparar</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Pum Pum .."</span>;
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Rifle</span>
+{</span>
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">Disparar</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Pum pum pum pum pum .."</span>;
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Escopeta</span>
+{</span>
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">Disparar</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"pum PUMMM !! .."</span>;
+    }
+}</code></pre>
+<p>Como se darán cuenta, las armas implementan el método<strong>&nbsp;</strong><strong>Disparar()</strong>, la cual el disparo varía dependiendo del tipo de arma que se elija.</p>
+<h4>Nuestra clase Soldado</h4>
+<p>Esta clase implementa los <em>métodos necesarios para realizar los disparos para cada arma.</em></p>
+<pre class="hljs cpp"><code><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Soldado</span>
+{</span>
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">DispararRevolver</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> Revolver().Disparar();
+    }
+
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">DispararRifle</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> Rifle().Disparar();
+    }
+
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">DispararEscopeta</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> Escopeta().Disparar();
+    }
+}</code></pre>
+<ul><li>
+<strong>¿Cual es el problema?,&nbsp;</strong>que la dependencia la tiene que implementar el mismo Soldado.</li>
+    <li>
+<strong>¿Y eso en que nos afecta?</strong>
+
+        <ul><li>Vamos a tener que modificar nuestra clase Soldado en un 
+futuro si queremos agregar más armas, ahora esta simple porque solo hay 3
+ armas y cada una tiene un método. ¿Pero si fuerán 200 armas y cada una 
+tiene 100 métodos?.</li>
+            <li>Realizar una prueba unitaria sería bastante tedioso, hay que probar método por método.</li>
+            <li>La clase a futuro va a ser un dolor de cabeza, teniendo un código que no permita su mantenimiento/mejora a futuro.</li>
+            <li>Al momento de instanciar la clase, vamos a tener que <strong>llamar a c/u de los métodos&nbsp;</strong>para manipular el arma seleccionada. Eso nos daría un serio problema, porque tendríamos que <strong>modificar el código constantemente</strong> si es que quisieramos cambiar de arma o hacer un uso <strong>excesivo y vulgar de los IF o SWITCH para saber con que arma se debe trabajar</strong>.</li>
+        </ul></li>
+</ul>
+<h3>¿Cual es la solución?</h3>
+<p>Implementar una <strong>interface</strong> y<strong>&nbsp;</strong>que el <strong>constructor de la clase Soldado la reciba</strong> como parámetro.</p>
+<h4>Paso #1</h4>
+<p>Crear la interface y hacer que las armas implementen dicha interface.</p>
+<pre class="hljs cs"><code><span class="hljs-keyword">public</span> <span class="hljs-keyword">interface</span> <span class="hljs-title">IArma</span> {
+    <span class="hljs-function"><span class="hljs-keyword">string</span> <span class="hljs-title">Disparar</span>(<span class="hljs-params"></span>)</span>;
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Revolver</span> : <span class="hljs-title">IArma</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">string</span> <span class="hljs-title">Disparar</span>(<span class="hljs-params"></span>)</span>
+    {
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Pum Pum .."</span>;
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Rifle</span> : <span class="hljs-title">IArma</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">string</span> <span class="hljs-title">Disparar</span>(<span class="hljs-params"></span>)</span>
+    {
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"Pum pum pum pum pum .."</span>;
+    }
+}
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title">Escopeta</span> : <span class="hljs-title">IArma</span>
+{
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">string</span> <span class="hljs-title">Disparar</span>(<span class="hljs-params"></span>)</span>
+    {
+        <span class="hljs-keyword">return</span> <span class="hljs-string">"pum PUMMM !! .."</span>;
+    }
+}</code></pre>
+<h4>Paso #2</h4>
+<p>Modificar nuestra clase Soldado para que reciba dicha interface.</p>
+<pre class="hljs cpp"><code><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Soldado</span>
+{</span>
+    <span class="hljs-keyword">protected</span> IArma arma;
+
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Soldado</span><span class="hljs-params">(IArma _arma)</span>
+    </span>{
+    <span class="hljs-keyword">this</span>.arma = _arma;
+    }
+
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-built_in">string</span> <span class="hljs-title">Disparar</span><span class="hljs-params">()</span>
+    </span>{
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">this</span>.arma.Disparar();
+    }
+}</code></pre>
+<p>Si se dan cuenta ahora, solo tenemos un <strong>método "Disparar"</strong>. Nuestra clase Soldado sabe que debe disparar un Arma, es nuestro constructor el encargado de setear que arma debe usar.</p>
+<p>Veamos como se instancia nuestra clase Soldado usando como arma principal el Revolver:</p>
+<pre class="hljs cs"><code><span class="hljs-keyword">var</span> soldado = <span class="hljs-keyword">new</span> Soldado(<span class="hljs-keyword">new</span> Revolver());
+soldado.Disparar();</code></pre>
+<p>Si queremos usar la escopeta:</p>
+<pre class="hljs cs"><code><span class="hljs-keyword">var</span> soldado = <span class="hljs-keyword">new</span> Soldado(<span class="hljs-keyword">new</span> Escopeta());
+soldado.Disparar();</code></pre>
+<p>¿Y el rifle?</p>
+<pre class="hljs cs"><code><span class="hljs-keyword">var</span> soldado = <span class="hljs-keyword">new</span> Soldado(<span class="hljs-keyword">new</span> Rifle());
+soldado.Disparar();</code></pre>
+<p>¿Se dieron cuenta lo lindo que ha quedado nuestro código?. Al final 
+lo que hemos hecho es eliminar la dependenia de una clase dentro de otra
+ clase.</p>
+<p><strong>NOTA</strong>: Me imagino que si has comprendido el ejemplo, tu mente ahora procesa varios casos para la cual usaría la <strong>inyección de dependencia.&nbsp;</strong>Sino fuera así, deja un comentario y te puedo orientar.</p>
+                </div>
+                
+                
+                <div class="has-text-centered is-uppercase">
+                    <hr>
+    
+                    <h3 class="title has-text-centered">Estudia con nosotros</h3>
+                    <h4 class="subtitle has-text-centered">
+                        <span class="icon">🚀</span>
+                        <span>Mejora tus oportunidades laborales</span>
+                    </h4> 
+                    
+                    
+<div class="columns is-multiline is-centered">
+            <div class="column is-full-touch is-half-desktop is-half-widescreen is-one-third-fullhd">
+            <figure>
+                <a class="kodoti-course" href="https://kodoti.com/cursos/adonet-uow-repository-pattern" data-course-id="7" data-course-name="ADO.NET: UOW + Repository Pattern" title="ADO.NET: UOW + Repository Pattern - Curso de ADO.NET y patrones de diseño para dar soluciones a problemas comunes usando .NET Core.">
+                    <img class="is-rounded" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/26c08b5e-9e52-4c36-85c2-1fb349f9a870.jpg" alt="ADO.NET: UOW + Repository Pattern">
+                </a>
+            </figure>
+        </div>    
+            <div class="column is-full-touch is-half-desktop is-half-widescreen is-one-third-fullhd">
+            <figure>
+                <a class="kodoti-course" href="https://kodoti.com/cursos/curso-de-aspnet-core-2" data-course-id="1" data-course-name="ASP.NET Core 2+" title="ASP.NET Core 2+ - Aprende a desarrollar aplicaciones escalables con casos prácticos y reales, usando el framework ASP.NET Core propuesto por Microsoft.">
+                    <img class="is-rounded" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/bf3e92d6-d2e3-49d7-a1d7-4e5903395566.jpg" alt="ASP.NET Core 2+">
+                </a>
+            </figure>
+        </div>    
+            <div class="column is-full-touch is-half-desktop is-half-widescreen is-one-third-fullhd">
+            <figure>
+                <a class="kodoti-course" href="https://kodoti.com/cursos/apis-restful-con-aspnet-core-2" data-course-id="3" data-course-name="APIs RESTFul con ASP.NET Core 2+" title="APIs RESTFul con ASP.NET Core 2+ - Aprende a desarrollar APIs RESTFul escalables y seguras con ASP.NET Core.">
+                    <img class="is-rounded" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/69ba7e09-5fa9-4bf7-96e4-b4890b0b63ee.jpg" alt="APIs RESTFul con ASP.NET Core 2+">
+                </a>
+            </figure>
+        </div>    
+            <div class="column is-full-touch is-half-desktop is-half-widescreen is-one-third-fullhd">
+            <figure>
+                <a class="kodoti-course" href="https://kodoti.com/cursos/php-7-developer" data-course-id="6" data-course-name="PHP 7 Developer: POO + MySQL" title="PHP 7 Developer: POO + MySQL - Curso de actualización para entrar al mundo de PHP 7, acceso a datos usando PDO y programación orientada a objetos.">
+                    <img class="is-rounded" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/cf2d3271-6cf1-44f0-b43a-33cad5c28735.jpg" alt="PHP 7 Developer: POO + MySQL">
+                </a>
+            </figure>
+        </div>    
+            <div class="column is-full-touch is-half-desktop is-half-widescreen is-one-third-fullhd">
+            <figure>
+                <a class="kodoti-course" href="https://kodoti.com/cursos/apis-restful-php-con-slim-framework" data-course-id="5" data-course-name="API RESTFul PHP + Slim Framework" title="API RESTFul PHP + Slim Framework - Implementa APIs RESTFul robustas y rapidamente con el framework SLIM 4+ y PHP.">
+                    <img class="is-rounded" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/73486b74-b187-4234-99ba-2944dac17f90.jpg" alt="API RESTFul PHP + Slim Framework">
+                </a>
+            </figure>
+        </div>    
+            <div class="column is-full-touch is-half-desktop is-half-widescreen is-one-third-fullhd">
+            <figure>
+                <a class="kodoti-course" href="https://kodoti.com/cursos/javascript-developer" data-course-id="4" data-course-name="JavaScript Developer" title="JavaScript Developer - Aprende bases sólidas sobre JavaScript antes de iniciarte con un Framework.">
+                    <img class="is-rounded" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/912f7800-9ee0-49fa-9c73-da56da5c1fea.jpg" alt="JavaScript Developer">
+                </a>
+            </figure>
+        </div>    
+    </div>
+
+                    
+                    <hr>
+                </div>
+                
+                                
+                                
+                                        
+            <div id="disqus_thread"><iframe id="dsq-app5506" name="dsq-app5506" allowtransparency="true" scrolling="no" tabindex="0" title="Disqus" style="width: 1px !important; min-width: 100% !important; border: medium none !important; overflow: hidden !important; height: 3203px !important;" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/a.html" horizontalscrolling="no" verticalscrolling="no" width="100%" frameborder="0"></iframe></div>
+        </article>
+    </div>
+</div>
+
+
+<div class="hero is-dark is-bold">
+    <div class="hero-body">
+        <div class="columns is-centered has-text-centered has-margin-top has-margin-bottom is-uppercase">
+            <div class="column-6">
+                <div class="title">¿Te gustó nuestra publicación?</div>
+                <div class="subtitle has-text-grey-light">Suscríbete a nuestro boletín</div>
+                
+                <form id="subscriptor" method="post" data-request="subscriptor::onSubmit" data-request-success="subscriptor_onSuccess()">
+    <div class="field has-addons">
+        <div class="control">
+            <input name="first_name" class="input is-medium" type="text" placeholder="Nombre" maxlength="10" autocomplete="off">
+        </div>
+
+        <div class="control is-expanded">
+            <input name="email" class="input is-medium" type="text" placeholder="E-mail" maxlength="50" autocomplete="off">
+        </div>
+        <div class="control">
+            <button class="button is-info is-medium" type="submit">Suscribirse</button>
+        </div>
+    </div>
+</form>
+
+<div id="subscriptor-success" class="has-text-centered is-hidden">
+    <p class="is-size-4">Gracias por suscribirse <span class="icon"><i class="fa fa-thumbs-up"></i></span></p>
+    <p class="is-size-6 has-text-grey-light">Lo mantendremos informado con lo mejor ..</p>
+</div>
+
+<script>
+    function subscriptor_onSuccess() {
+        $("#subscriptor").hide(200);
+        $("#subscriptor-success").removeClass('is-hidden');
+    }
+</script>                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+  
+  <footer id="footer" class="has-text-grey-light">
+    <div class="container">
+      <div class="section">
+        <div class="columns">
+          <div class="column">
+            <img class="logo" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/logo.png">
+            <p>© 2019 Anexsoft - blog oficial de <span class="has-text-primary has-text-weight-bold">KODOTI</span>.</p>
+          </div>
+          <div class="column">
+            <h4 class="has-text-primary title is-size-4 is-uppercase">Síguenos en</h4>
+
+            <a href="https://www.facebook.com/KodotiOficial/" target="_blank" class="social-link">
+              <span class="icon is-large">
+                <i class="fab fa-facebook-f"></i>
+              </span>
+            </a>
+            
+            <a href="https://www.youtube.com/c/kodoti?sub_confirmation=1" target="_blank" class="social-link">
+              <span class="icon is-large">
+                <i class="fab fa-youtube"></i>
+              </span>
+            </a>
+            
+            <a href="https://kodoti.slack.com/join/shared_invite/enQtNTEzMDc3MjU4ODE2LWZiOGYwMjhmMzc0OTdmYjZkNDVhYWE3ODQ0ZTI4MGFkNzI1ZjcwMTFhNWY3NDIwYzhmMDQxODQxZGJkYmY4MzI" target="_blank" class="social-link">
+              <span class="icon is-large">
+                <i class="fab fa-slack"></i>
+              </span>
+            </a>
+            
+            <a href="https://twitter.com/ERPatino" target="_blank" class="social-link">
+              <span class="icon is-large">
+                <i class="fab fa-twitter"></i>
+              </span>
+            </a>
+            
+            <a href="mailto:erodriguezp105@gmail.com" class="social-link">
+              <span class="icon is-large">
+                <i class="fa fa-envelope"></i>
+              </span>
+            </a>
+
+            <div class="divider"></div>            
+
+            <ul>
+              <li>
+                <i class="fas fa-angle-right"></i>
+                <a href="https://anexsoft.com/colaboradores" class="has-text-grey-light">¿Quíeres colaborar con el blog?</a>
+              </li>
+              <li>
+                <i class="fas fa-angle-right"></i>
+                <a href="https://www.facebook.com/groups/665529303555720/?ref=ts&amp;fref=ts" target="_blank" class="has-text-grey-light">Web Developers FullStack</a>
+              </li>
+              <li>
+                <i class="fas fa-angle-right"></i>
+                <a href="https://kodoti.com/" class="has-text-grey-light">KODOTI</a>
+              </li>
+            </ul>
+          </div>
+          <div class="column">
+            <h4 class="title has-text-warning is-size-4 is-uppercase">Sobre nosotros</h4>
+            <p>Somos un blog de tecnología que pertenece a KODOTI y busca compartir conocimiento a través de sus constantes publicaciones.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+  <div class="base-foot"></div>
+  <script src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/jquery-3.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    
+  <script src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/framework.js"></script>
+<link rel="stylesheet" property="stylesheet" href="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/framework.css">
+  <script>
+$(document).ready(function() {
+    $('.kodoti-course').click(function(e) {
+        gtag('event', 'click', {
+            'event_category': 'courses',
+            'event_action': 'course-cliked',
+            'event_label': $(this).data('course-name'),
+            'event_value': $(this).data('course-id')
+        });
+    });
+})
+</script>
+    <!-- DISQUS -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES * * */
+        var disqus_shortname = 'anexsoftcom';
+    
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <script src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/highlight.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+          document.querySelectorAll('#post pre').forEach((block) => {
+            hljs.highlightBlock(block);
+          });
+          
+            let backgroundImage = 'https://anexsoft.com/themes/anexsoft/assets/images/posts-cover/02-full.jpg';
+            $("#post .hero").attr('style', 'background-image: url(' +  backgroundImage +');');
+            
+            showKodotiAds();
+        });
+        
+        function showKodotiAds() {
+            setTimeout(() => {
+                let modal = document.getElementById('course-modal');
+                modal.classList.add('is-active');
+                
+                modal.querySelector('.modal-close').addEventListener('click', () => {
+                    modal.remove();
+                });
+                
+                modal.querySelector('.modal-background').addEventListener('click', () => {
+                    modal.remove();
+                }); 
+            }, 10000);
+        }
+    </script>
+      <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none;" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/xd_arbiter.html" frameborder="0"></iframe></div><div></div></div></div>
+<script>
+$(document).ready(function() {
+  // Check for click events on the navbar burger icon
+  $(".navbar-burger").click(function() {
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+
+  });
+});
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-75703850-1');
+</script>
+      <script async="" defer="defer" crossorigin="anonymous" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/sdk.js"></script>
+
+
+<div class="stripe-loading-indicator loaded"><div class="stripe"></div><div class="stripe-loaded"></div></div><iframe style="display: none;"></iframe><iframe id="dsq-app5509" name="dsq-app5509" allowtransparency="true" scrolling="no" tabindex="0" title="Disqus" style="width: 1px !important; min-width: 100% !important; border: medium none !important; overflow: hidden !important; height: 100% !important; position: fixed !important; inset: 0px 0px auto auto !important; z-index: 2147483647 !important; display: none !important;" src="Ejemplo%20de%20inyecci%C3%B3n%20de%20dependencias%20con%20C%23_files/a_003.html" width="100%" frameborder="0"></iframe></body></html>

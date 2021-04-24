@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\bin\Debug\Asociacion.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\bin\Debug\Asociacion.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\bin\Debug\Asociacion.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\obj\Debug\Asociacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\obj\Debug\Asociacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\obj\Debug\Asociacion.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Asociacion\Asociacion\obj\Debug\Asociacion.pdb

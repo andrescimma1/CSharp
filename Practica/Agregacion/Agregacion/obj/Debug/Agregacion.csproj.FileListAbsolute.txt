@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\bin\Debug\Agregacion.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\bin\Debug\Agregacion.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\bin\Debug\Agregacion.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\obj\Debug\Agregacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\obj\Debug\Agregacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\obj\Debug\Agregacion.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Agregacion\Agregacion\obj\Debug\Agregacion.pdb

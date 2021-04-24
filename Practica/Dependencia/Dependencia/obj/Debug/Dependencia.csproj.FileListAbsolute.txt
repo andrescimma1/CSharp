@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\bin\Debug\Dependencia.exe.config
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\bin\Debug\Dependencia.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\bin\Debug\Dependencia.pdb
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\obj\Debug\Dependencia.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\obj\Debug\Dependencia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\obj\Debug\Dependencia.exe
+C:\Users\User\Desktop\Curso Global Citizen\Practica\Dependencia\Dependencia\obj\Debug\Dependencia.pdb
